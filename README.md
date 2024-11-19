@@ -6,10 +6,14 @@
 
 *Turma: ADS-A*
 
+-------------------------------------------
+
 # Resumo do Projeto Kanban
 Este é um projeto de gerenciamento de tarefas baseado em Kanban, construído com React no frontend e Spring Boot no backend. O sistema permite a criação, edição, exclusão e movimentação de tarefas entre diferentes estados (A Fazer, Em Progresso, Concluído). Também é possível definir prioridades e datas limites para as tarefas.
 
-*Para Rodar o FrontEnd(React):*
+-------------------------------------------
+
+# Para Rodar o FrontEnd(React):
 
 Node.js: Você precisará do Node.js para rodar o aplicativo React. 
 
@@ -19,15 +23,17 @@ Navegue até a pasta do frontend:
 
 cd kanban/kanban-frontend
 
-*Instale as dependências:
+Instale as dependências:
 
 npm install
 
 Inicie o servidor de desenvolvimento:
 
-npm start*
+npm start
 
 O frontend estará disponível em http://localhost:3000.
+
+-------------------------------------------
 
 Funcionalidades
 Criar Tarefa: Adicione novas tarefas com título, descrição, prioridade e data limite.
