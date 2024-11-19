@@ -13,6 +13,14 @@ Este é um projeto de gerenciamento de tarefas baseado em Kanban, construído co
 
 -------------------------------------------
 
+# Para começar:
+
+Após baixar, rodar o " KanbanApplication.java ";
+
+Estará disponível em http://localhost:8080
+
+-------------------------------------------
+
 # Para Rodar o FrontEnd(React):
 
 Node.js: Você precisará do Node.js para rodar o aplicativo React. 
