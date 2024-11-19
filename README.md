@@ -35,7 +35,7 @@ O frontend estará disponível em http://localhost:3000.
 
 -------------------------------------------
 
-Funcionalidades
+# Funcionalidades
 Criar Tarefa: Adicione novas tarefas com título, descrição, prioridade e data limite.
 
 Editar Tarefa: Edite tarefas existentes.
@@ -45,3 +45,9 @@ Mover Tarefa: Mova tarefas entre os estados "A Fazer", "Em Progresso" e "Conclu�
 Excluir Tarefa: Remova tarefas do sistema.
 
 Filtragem: Filtre tarefas por prioridade e data limite.
+
+-------------------------------------------
+
+# Obs:
+
+Nos Prints constam as imagens dos EndPoints, além é claro do FrontEnd onde vai funcionar melhor as funcionalidades
